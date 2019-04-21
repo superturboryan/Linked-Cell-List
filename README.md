@@ -1,3 +1,5 @@
+Completed as part of Concordia's Comp249 (advanced Object-Oriented-Programming) course in Fall 2018 with Dr. Aiman Hanna.
+
 # Linked-Cell-List
 
 ### Purpose: The purpose of this assignment is to allow you practice File I/O, ArrayList, and Linked Lists.
