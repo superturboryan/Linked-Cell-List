@@ -1,7 +1,8 @@
 # Linked-Cell-List
 
-Purpose: The purpose of this assignment is to allow you practice File I/O, ArrayList, and Linked Lists.
-Part 1: ArrayList & Other subjects
+### Purpose: The purpose of this assignment is to allow you practice File I/O, ArrayList, and Linked Lists.
+
+## Part 1: ArrayList & Other subjects
 In 1935, the American linguist George Zipf noticed something very peculiar with the books he was reading. Whenever he would count the words in his books, he noticed that most of the words appeared only once and a small number of words appeared very frequently. In addition, this phenomenon seemed to hold true for any text and in any language. Zipf analysed this a little further, and noticed that if you sort the words by frequency and plot the frequency of words versus their rank in the sorted list, you will always get a graph similar to the one below, where a few words have a high frequency (the peak on the left), and most words appear only once (the long tail on the right).
 In technical terms:
 - Words that appear frequently (the peak on the left) and that happen to be short
@@ -59,7 +60,7 @@ Nb of stop words: 6
 Stop words account for: 19% of the text
         jokes.txt
 
-Part 2: Linked Lists
+## Part 2: Linked Lists
 Write a program to manipulate Cellular Phones using linked lists.
 I) The CellPhone class has the following attributes: a serialNum (long type), a brand (String type), a year (int type, which indicates manufacturing year) and a price (double type). It is assumed that brand name is always recorded as a single word (i.e. Motorola, SonyEricsson, Panasonic, etc.). It is also assumed that all cellular phones follow one system of assigning serial numbers, regardless of their different brands, so no two cell phones may have the same serial number.
 You are required to write the implementation of the CellPhone class. Beside the usual mutator and accessor methods (i.e. getPrice(), setYear()) the class must have the following:
